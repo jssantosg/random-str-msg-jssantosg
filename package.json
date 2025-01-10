@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-jssantosg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jssantosg/random-str-msg-jssantosg.git"
+  },
+  "author": "Johan Santos <jssantosg@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jssantosg/random-str-msg-jssantosg/issues"
+  },
+  "homepage": "https://github.com/jssantosg/random-str-msg-jssantosg#readme",
+  "keywords": [],
+  "bin": {
+    "random-str-msg-jssantosg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
